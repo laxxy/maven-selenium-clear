@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="debug" verbose="4">
+    <test name="Elements Test">
+        <classes>
+            <!--<class name="me.ucraft.selenium.tests.ElementsTest"/>-->
+        </classes>
+    </test>
+</suite>

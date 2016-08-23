@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Add Elements Suite" verbose="4">
+    <test name="Add Elements tests">
+        <classes>
+            <class name="AddElementsTests"/>
+        </classes>
+    </test>
+</suite>
